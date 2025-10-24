@@ -6,7 +6,7 @@ Shift Baru : A <br>
 Shift Asal : F
 
 # DEMO APLIKASI
-![Screen Recording](demo/Recording%202025-10-24%20213551.gif)
+[Responsi](DemoAplikasi.mp4)
 
 # PENJELASAN ALUR DATA
 ## Alur Aplikasi
