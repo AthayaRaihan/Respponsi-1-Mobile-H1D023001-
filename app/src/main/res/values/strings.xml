@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile (H1D023001)</string>
+    <string name="description">
+        The Hamburger Sport-Verein (short HSV) is German Sportsclub from Hamburg and became known particularly by its football crews. The man crew of the HSV created it thereby as an only soccer association, 43 years long continuously in the Bundesliga to play and was always first-class since the establishment union in the year 1919 as only German association.
+    </string>
+    <string name="hamburger_history">
+        Hamburger Sport-Verein, commonly known as Hamburger SV or simply HSV, is a historic and iconic football club based in the port city of Hamburg, Germany.
+    The club traces its roots back to 1887, when several local sports associations came together to form the early foundation of what would become HSV.
+    Officially established in 1919 after the merger of SC Germania von 1887, Hamburger FC von 1888, and FC Falke 1906, HSV quickly grew into one of the strongest and most respected football institutions in Germany.
+    The club’s famous colors—blue, white, and black—represent the proud maritime heritage of Hamburg and symbolize unity, loyalty, and resilience.
+
+    HSV became a founding member of the Bundesliga in 1963 and was one of the few clubs that managed to maintain a continuous presence in the top division for more than five decades.
+    Throughout its illustrious history, HSV has achieved remarkable domestic and international success.
+    The 1970s and 1980s marked the golden era of the club, as HSV dominated German football and rose to prominence in Europe.
+    Under legendary coaches such as Branko Zebec and Ernst Happel, the team boasted great players including Kevin Keegan, Felix Magath, Horst Hrubesch, and Manfred Kaltz.
+    HSV won multiple Bundesliga titles, the DFB-Pokal, and the 1977 European Cup Winners’ Cup.
+    The pinnacle of success came in 1983, when Hamburger SV captured the European Cup (now the UEFA Champions League) by defeating Juventus 1–0 in the final in Athens.
+    This victory cemented HSV’s place among the elite clubs of Europe and remains one of the proudest moments in the club’s history.
+
+    Over the decades, Hamburger SV became known not only for its achievements on the field but also for its passionate and loyal fan base.
+    The club’s home ground, the Volksparkstadion, has long been regarded as one of Germany’s most iconic football stadiums.
+    Rebuilt and modernized over time, the stadium serves as a fortress for HSV and a symbol of the city’s strong football culture.
+    The atmosphere during home matches is electrifying, with supporters waving blue-and-white flags and singing club anthems that echo the deep pride of Hamburg’s people.
+
+    In the modern era, HSV faced significant challenges, including financial struggles and a gradual decline in performance.
+    In 2018, after 55 consecutive seasons in the Bundesliga, the club suffered its first-ever relegation to the 2. Bundesliga—a moment that marked the end of an era in German football history.
+    Despite this setback, HSV has continued to demonstrate resilience, determination, and unwavering support from its fans.
+    The club’s focus has been on rebuilding its foundations, developing young talents, and restoring the identity that once made it a symbol of consistency and excellence.
+
+    Today, Hamburger SV stands as a club rich in tradition and history, embodying the spirit of perseverance and loyalty.
+    Its motto, “Nur der HSV” (“Only HSV”), reflects the unity and passion of its supporters who continue to stand by the team through both triumphs and challenges.
+    With its deep-rooted heritage, strong community connection, and unyielding ambition, HSV remains one of the most beloved football clubs in Germany—an enduring symbol of the beautiful game in the heart of Hamburg.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
