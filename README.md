@@ -6,7 +6,7 @@ Shift Baru : A <br>
 Shift Asal : F
 
 # DEMO APLIKASI
-[Responsi](DemoAplikasi.mp4)
+[Responsi](demo/DemoAplikasi.gif)
 
 # PENJELASAN ALUR DATA
 ## Alur Aplikasi
